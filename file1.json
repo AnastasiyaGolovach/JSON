@@ -1,5 +1,5 @@
 [
-    {"title": "Элемент 1", "description": "Описание элемента 1"},
-    {"title": "Элемент 2", "description": "Описание элемента 2"},
-    {"title": "Элемент 3", "description": "Описание элемента 3"}
+    {"name": "Item 1"},
+    {"name": "Item 2"},
+    {"name": "Item 3"}
 ]
